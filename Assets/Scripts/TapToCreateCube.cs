@@ -7,8 +7,6 @@ public class TapToCreateCube : MonoBehaviour, IInputClickHandler
 {
     public Transform Prefab;
 
-    private bool loaded;
-
     public void OnInputClicked(InputClickedEventData eventData)
     {
         var instance = Instantiate(Prefab);
@@ -20,22 +18,5 @@ public class TapToCreateCube : MonoBehaviour, IInputClickHandler
     void Start()
     {
         InputManager.Instance.PushFallbackInputHandler(gameObject);
-    }
-
-    void Update()
-    {
-        if (!this.loaded && (WorldAnchorManager.Instance.AnchorStore != null))
-        {
-            var ids = WorldAnchorManager.Instance.AnchorStore.GetAllIds();
-
-            // NB: I'm assuming that the ordering here is either preserved or
-            // maybe doesn't matter.
-            foreach (var id in ids)
-            {
-                var instance = Instantiate(this.Prefab);
-                WorldAnchorManager.Instance.AttachAnchor(instance.gameObject, id);
-            }
-            this.loaded = true;
-        }
     }
 }
