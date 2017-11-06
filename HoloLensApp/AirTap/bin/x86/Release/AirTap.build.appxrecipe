@@ -346,31 +346,31 @@
     <AppxPackagedFile Include="C:\Users\mpagani\.nuget\packages\system.xml.xmlserializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineProxy.dll">
+    <AppxPackagedFile Include="C:\Program Files\Unity 2017.1.2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineProxy.dll">
       <PackagePath>UnityEngineProxy.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\Unprocessed\WinRTLegacy.dll">
       <PackagePath>WinRTLegacy.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.dll">
+    <AppxPackagedFile Include="C:\Program Files\Unity 2017.1.2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.dll">
       <PackagePath>UnityPlayer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\BridgeInterface.dll">
+    <AppxPackagedFile Include="C:\Program Files\Unity 2017.1.2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\BridgeInterface.dll">
       <PackagePath>BridgeInterface.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineDelegates.dll">
+    <AppxPackagedFile Include="C:\Program Files\Unity 2017.1.2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineDelegates.dll">
       <PackagePath>UnityEngineDelegates.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\BridgeInterface.winmd">
+    <AppxPackagedFile Include="C:\Program Files\Unity 2017.1.2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\BridgeInterface.winmd">
       <PackagePath>BridgeInterface.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineDelegates.winmd">
+    <AppxPackagedFile Include="C:\Program Files\Unity 2017.1.2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineDelegates.winmd">
       <PackagePath>UnityEngineDelegates.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.winmd">
+    <AppxPackagedFile Include="C:\Program Files\Unity 2017.1.2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.winmd">
       <PackagePath>UnityPlayer.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\WinRTBridge.winmd">
+    <AppxPackagedFile Include="C:\Program Files\Unity 2017.1.2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\WinRTBridge.winmd">
       <PackagePath>WinRTBridge.winmd</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\Resource.res">
@@ -457,138 +457,15 @@
     <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\Data\resources.resource">
       <PackagePath>Data\resources.resource</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.UIModule.dll">
-      <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.UIElementsModule.dll">
-      <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.TilemapModule.dll">
-      <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.TextRenderingModule.dll">
-      <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.TerrainPhysicsModule.dll">
-      <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.TerrainModule.dll">
-      <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.StyleSheetsModule.dll">
-      <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.SpriteMaskModule.dll">
-      <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.ScreenCaptureModule.dll">
-      <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.UNETModule.dll">
-      <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.WindModule.dll">
-      <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.WebModule.dll">
-      <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.VRModule.dll">
-      <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.VideoModule.dll">
-      <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.VehiclesModule.dll">
-      <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.UnityWebRequestWWWModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.UnityWebRequestTextureModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.UnityWebRequestModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.UnityWebRequestAudioModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.UnityConnectModule.dll">
-      <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.UnityAnalyticsModule.dll">
-      <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.PhysicsModule.dll">
-      <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.DirectorModule.dll">
-      <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.CrashReportingModule.dll">
-      <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.CoreModule.dll">
-      <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.ClothModule.dll">
-      <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.AudioModule.dll">
-      <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.ARModule.dll">
-      <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.AnimationModule.dll">
-      <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.AIModule.dll">
-      <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.AccessibilityModule.dll">
-      <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.Physics2DModule.dll">
-      <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.PerformanceReportingModule.dll">
-      <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.ParticleSystemModule.dll">
-      <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.ParticlesLegacyModule.dll">
-      <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.JSONSerializeModule.dll">
-      <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.GameCenterModule.dll">
-      <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.GridModule.dll">
-      <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.ImageConversionModule.dll">
-      <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.IMGUIModule.dll">
-      <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\UnityEngine.InputModule.dll">
-      <PackagePath>UnityEngine.InputModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
@@ -610,6 +487,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\Assembly-CSharp-firstpass.dll">
+      <PackagePath>Assembly-CSharp-firstpass.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\bin\x86\Release\Core\AirTap.exe">
       <PackagePath>AirTap.exe</PackagePath>

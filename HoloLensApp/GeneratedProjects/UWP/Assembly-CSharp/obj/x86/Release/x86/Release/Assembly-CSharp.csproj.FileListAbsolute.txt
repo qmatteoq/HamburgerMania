@@ -1,6 +1,9 @@
 D:\Source\MR\HamburgerTap\HoloLensApp\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.dll
 D:\Source\MR\HamburgerTap\HoloLensApp\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pdb
 D:\Source\MR\HamburgerTap\HoloLensApp\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pri
+D:\Source\MR\HamburgerTap\HoloLensApp\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.dll
+D:\Source\MR\HamburgerTap\HoloLensApp\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+D:\Source\MR\HamburgerTap\HoloLensApp\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.pri
 D:\Source\MR\HamburgerTap\HoloLensApp\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csprojResolveAssemblyReference.cache
 D:\Source\MR\HamburgerTap\HoloLensApp\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
 D:\Source\MR\HamburgerTap\HoloLensApp\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.dll

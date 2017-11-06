@@ -1,2 +1,4 @@
 D:\Source\MR\HamburgerTap\HoloLensApp\AirTap\AirTap.csproj;x86
 D:\Source\MR\HamburgerTap\HoloLensApp\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\Source\MR\HamburgerTap\HoloLensApp\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+D:\Source\MR\HamburgerTap\HoloLensApp\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86

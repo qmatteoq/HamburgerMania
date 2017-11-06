@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using UnityEngine.XR.WSA.Input;
+using UnityEngine.VR.WSA.Input;
 
 public class Fitbox : MonoBehaviour
 {
@@ -43,10 +43,10 @@ public class Fitbox : MonoBehaviour
 
             // Set up our GestureRecognizer to listen for the SelectEvent
             recognizer = new GestureRecognizer();
-            recognizer.Tapped += (args) =>
-            {
-                DismissFitbox();
-            };
+            //recognizer.Tapped += (args) =>
+            //{
+            //    DismissFitbox();
+            //};
             recognizer.StartCapturingGestures();
         }
     }
