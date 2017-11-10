@@ -1,2 +1,0 @@
-D:\Source\MR\HamburgerTap\StoreApp\AirTap\AirTap.csproj;x86
-D:\Source\MR\HamburgerTap\StoreApp\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86

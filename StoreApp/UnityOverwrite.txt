@@ -5,26 +5,18 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-AirTap.sln: modified
-AirTap\AirTap.csproj: 17C71299812F4B20B16B2D481DE07949
-AirTap\AirTap.csproj.user: modified
-AirTap\App.cs: DC76BBE45DEC54CF29A897AD453040AC
-AirTap\Package.appxmanifest: 8DAC6EFA8454B1B00115F68E16349397
-AirTap\project.json: 1D02BC64BAC0D041019673A1C4C51737
-AirTap\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
-AirTap\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
-AirTap\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
-AirTap\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
-AirTap\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
-AirTap\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
-AirTap\bin\x86\Release\AppX\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
-AirTap\bin\x86\Release\AppX\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
-AirTap\bin\x86\Release\AppX\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
-AirTap\bin\x86\Release\AppX\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
-AirTap\bin\x86\Release\AppX\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
-AirTap\bin\x86\Release\AppX\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
-AirTap\bin\x86\Release\AppX\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
-AirTap\obj\x86\Release\AirTap.csproj.CopyComplete: D41D8CD98F00B204E9800998ECF8427E
-AirTap\Properties\AssemblyInfo.cs: 30131BAE57EEE8EFD6359F9022357922
-AirTap\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
+Hamburger Mania.sln: 64F1C900D3FD95F47948BA6EB6A5E3F7
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
+Hamburger Mania\App.cs: BBADFA51B97CF7EDEEA072A3431BF3CD
+Hamburger Mania\Hamburger Mania.csproj: FDFD66AAE6593AA082C6BDF136FFFF07
+Hamburger Mania\Hamburger Mania.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
+Hamburger Mania\Package.appxmanifest: 684126C00F39036F940D5769931F3626
+Hamburger Mania\project.json: 1D02BC64BAC0D041019673A1C4C51737
+Hamburger Mania\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
+Hamburger Mania\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
+Hamburger Mania\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
+Hamburger Mania\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
+Hamburger Mania\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
+Hamburger Mania\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
+Hamburger Mania\Properties\AssemblyInfo.cs: EDB7CC5993B496FA2348DDDC23FD6152
+Hamburger Mania\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
