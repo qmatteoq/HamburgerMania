@@ -6,7 +6,7 @@
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
 AirTap.sln: modified
-AirTap\AirTap.csproj: A9901E0DB4AEF67D3A78AF4160A5169B
+AirTap\AirTap.csproj: 17C71299812F4B20B16B2D481DE07949
 AirTap\AirTap.csproj.user: modified
 AirTap\App.cs: DC76BBE45DEC54CF29A897AD453040AC
 AirTap\Package.appxmanifest: 8DAC6EFA8454B1B00115F68E16349397
