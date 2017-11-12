@@ -5,11 +5,11 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-Hamburger Mania.sln: A10FF3D6F8F1C905C819414B3F2B1065
+Hamburger Mania.sln: 35B11F09D1D577C37871448785F925DF
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 Hamburger Mania\App.cs: BBADFA51B97CF7EDEEA072A3431BF3CD
-Hamburger Mania\Hamburger Mania.csproj: 24FAA5081003206EA7D4E3B17BB40E9A
+Hamburger Mania\Hamburger Mania.csproj: BC1042CA7B16AA2434E9D3EA1F57A62C
 Hamburger Mania\Hamburger Mania.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
 Hamburger Mania\Package.appxmanifest: F2FDEBA98E5901035C284B190B9F9F0F
 Hamburger Mania\project.json: 1D02BC64BAC0D041019673A1C4C51737
