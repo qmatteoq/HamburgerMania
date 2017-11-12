@@ -1,7 +1,7 @@
 ﻿using HoloToolkit.Unity.InputModule;
 using UnityEngine;
 
-public class TapToCreateCube : MonoBehaviour, IInputClickHandler
+public class TapToCreate: MonoBehaviour, IInputClickHandler
 {
     public GameObject Prefab;
     public GameObject Cursor;
